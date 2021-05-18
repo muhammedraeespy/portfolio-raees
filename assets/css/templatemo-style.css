@@ -435,7 +435,7 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(assets/images/system.png);
+    background-image: url(../assets/images/system.png);
 }
 
 .service-item:hover .first-service-icon {
