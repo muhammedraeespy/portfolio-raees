@@ -435,11 +435,11 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(C:\Users\user\Documents\Raees\portfolio\src\TEMPLATE\assets\images\system.png);
+    background-image: url(assets/images/system.png);
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url(C:\Users\user\Documents\Raees\portfolio\src\TEMPLATE\assets\images\systempink.png);
+    background-image: url(assets/images/systempink.png);
 }
 
 .service-item .second-service-icon {
